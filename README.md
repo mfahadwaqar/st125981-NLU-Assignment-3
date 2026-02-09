@@ -18,7 +18,7 @@ This project implements a Neural Machine Translation (NMT) system for **English 
 
 ### Dataset
 
-- **Source:** Tatoeba Project (https://tatoeba.org/)
+- **Source:** Tatoeba Project
 - **License:** CC-BY 2.0 (France)
 - **Size:** 10,504 parallel sentence pairs
 
