@@ -1,5 +1,8 @@
 # NLU Assignment 3: Machine Translation Language
 
+**Name:** Muhammad Fahad Waqar<br>
+**Student ID:** st125981
+
 ## Assignment Overview
 
 This project implements a Neural Machine Translation (NMT) system for **English to Urdu** translation. The implementation explores different attention mechanisms in Sequence-to-Sequence models and includes a web application for interactive translation.
