@@ -1,0 +1,5 @@
+# Web Application Dependencies
+# NLU Assignment 3 - Task 4
+
+gradio>=4.0.0
+torch>=2.0.0
